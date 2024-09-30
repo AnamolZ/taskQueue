@@ -1,0 +1,340 @@
+2024-09-29 15:51:58,049 - INFO - Calling function fetch_data with arguments: () {}
+2024-09-29 15:51:58,312 - INFO - Function fetch_data executed successfully.
+2024-09-29 15:52:58,344 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 15:52:58,344 - INFO - Function reverse executed successfully.
+2024-09-29 15:53:58,374 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 15:53:58,375 - INFO - Function reverse executed successfully.
+2024-09-29 15:54:58,416 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 15:54:58,416 - INFO - Function reverse executed successfully.
+2024-09-29 15:55:58,450 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 15:55:58,450 - INFO - Function reverse executed successfully.
+2024-09-29 15:56:58,478 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 15:56:58,478 - INFO - Function reverse executed successfully.
+2024-09-29 15:57:58,511 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 15:57:58,511 - INFO - Function reverse executed successfully.
+2024-09-29 15:58:58,543 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 15:58:58,543 - INFO - Function reverse executed successfully.
+2024-09-29 15:59:58,574 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 15:59:58,574 - INFO - Function reverse executed successfully.
+2024-09-29 16:00:58,600 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 16:00:58,600 - INFO - Function reverse executed successfully.
+2024-09-29 16:01:58,632 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 16:01:58,632 - INFO - Function reverse executed successfully.
+2024-09-29 16:02:58,663 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 16:02:58,663 - INFO - Function reverse executed successfully.
+2024-09-29 16:03:58,691 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 16:03:58,691 - INFO - Function reverse executed successfully.
+2024-09-29 16:04:58,721 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 16:04:58,721 - INFO - Function reverse executed successfully.
+2024-09-29 16:05:58,747 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 16:05:58,747 - INFO - Function reverse executed successfully.
+2024-09-29 16:06:58,778 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 16:06:58,778 - INFO - Function reverse executed successfully.
+2024-09-29 16:07:58,806 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 16:07:58,806 - INFO - Function reverse executed successfully.
+2024-09-29 16:08:58,840 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 16:08:58,840 - INFO - Function reverse executed successfully.
+2024-09-29 16:09:58,871 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 16:09:58,871 - INFO - Function reverse executed successfully.
+2024-09-29 16:10:58,895 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 16:10:58,895 - INFO - Function reverse executed successfully.
+2024-09-29 16:11:58,925 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 16:11:58,925 - INFO - Function reverse executed successfully.
+2024-09-29 16:12:58,953 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 16:12:58,953 - INFO - Function reverse executed successfully.
+2024-09-29 16:13:58,983 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 16:13:58,983 - INFO - Function reverse executed successfully.
+2024-09-29 16:14:59,014 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 16:14:59,014 - INFO - Function reverse executed successfully.
+2024-09-29 16:15:59,048 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 16:15:59,048 - INFO - Function reverse executed successfully.
+2024-09-29 16:16:59,078 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 16:16:59,078 - INFO - Function reverse executed successfully.
+2024-09-29 16:17:59,106 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 16:17:59,106 - INFO - Function reverse executed successfully.
+2024-09-29 16:18:59,136 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 16:18:59,136 - INFO - Function reverse executed successfully.
+2024-09-29 16:19:59,167 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 16:19:59,167 - INFO - Function reverse executed successfully.
+2024-09-29 16:20:59,200 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 16:20:59,200 - INFO - Function reverse executed successfully.
+2024-09-29 16:21:59,229 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 16:21:59,229 - INFO - Function reverse executed successfully.
+2024-09-29 16:22:59,255 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 16:22:59,255 - INFO - Function reverse executed successfully.
+2024-09-29 16:23:59,289 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 16:23:59,289 - INFO - Function reverse executed successfully.
+2024-09-29 16:24:59,325 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 16:24:59,325 - INFO - Function reverse executed successfully.
+2024-09-29 16:25:59,356 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 16:25:59,356 - INFO - Function reverse executed successfully.
+2024-09-29 16:26:59,391 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 16:26:59,391 - INFO - Function reverse executed successfully.
+2024-09-29 16:27:59,428 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 16:27:59,428 - INFO - Function reverse executed successfully.
+2024-09-29 16:28:59,458 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 16:28:59,458 - INFO - Function reverse executed successfully.
+2024-09-29 16:29:59,494 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 16:29:59,494 - INFO - Function reverse executed successfully.
+2024-09-29 16:30:59,525 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 16:30:59,525 - INFO - Function reverse executed successfully.
+2024-09-29 16:31:59,560 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 16:31:59,560 - INFO - Function reverse executed successfully.
+2024-09-29 16:32:59,589 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 16:32:59,589 - INFO - Function reverse executed successfully.
+2024-09-29 16:33:59,623 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 16:33:59,623 - INFO - Function reverse executed successfully.
+2024-09-29 16:34:59,659 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 16:34:59,659 - INFO - Function reverse executed successfully.
+2024-09-29 16:35:59,694 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 16:35:59,694 - INFO - Function reverse executed successfully.
+2024-09-29 16:36:59,725 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 16:36:59,725 - INFO - Function reverse executed successfully.
+2024-09-29 16:37:59,755 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 16:37:59,755 - INFO - Function reverse executed successfully.
+2024-09-29 16:38:59,787 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 16:38:59,787 - INFO - Function reverse executed successfully.
+2024-09-29 16:39:59,817 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 16:39:59,817 - INFO - Function reverse executed successfully.
+2024-09-29 16:40:59,852 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 16:40:59,852 - INFO - Function reverse executed successfully.
+2024-09-29 16:41:59,891 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 16:41:59,891 - INFO - Function reverse executed successfully.
+2024-09-29 16:42:59,933 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 16:42:59,933 - INFO - Function reverse executed successfully.
+2024-09-29 16:43:59,977 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 16:43:59,977 - INFO - Function reverse executed successfully.
+2024-09-29 16:45:00,011 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 16:45:00,011 - INFO - Function reverse executed successfully.
+2024-09-29 16:46:00,051 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 16:46:00,051 - INFO - Function reverse executed successfully.
+2024-09-29 16:47:00,097 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 16:47:00,097 - INFO - Function reverse executed successfully.
+2024-09-29 16:48:00,134 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 16:48:00,134 - INFO - Function reverse executed successfully.
+2024-09-29 16:49:00,166 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 16:49:00,166 - INFO - Function reverse executed successfully.
+2024-09-29 16:50:00,199 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 16:50:00,199 - INFO - Function reverse executed successfully.
+2024-09-29 16:51:00,232 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 16:51:00,232 - INFO - Function reverse executed successfully.
+2024-09-29 16:52:00,261 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 16:52:00,261 - INFO - Function reverse executed successfully.
+2024-09-29 16:53:00,296 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 16:53:00,296 - INFO - Function reverse executed successfully.
+2024-09-29 16:54:00,333 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 16:54:00,333 - INFO - Function reverse executed successfully.
+2024-09-29 16:55:00,367 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 16:55:00,367 - INFO - Function reverse executed successfully.
+2024-09-29 16:56:00,396 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 16:56:00,396 - INFO - Function reverse executed successfully.
+2024-09-29 16:57:00,427 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 16:57:00,427 - INFO - Function reverse executed successfully.
+2024-09-29 16:58:00,457 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 16:58:00,457 - INFO - Function reverse executed successfully.
+2024-09-29 16:59:00,492 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 16:59:00,492 - INFO - Function reverse executed successfully.
+2024-09-29 17:00:00,521 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 17:00:00,521 - INFO - Function reverse executed successfully.
+2024-09-29 17:01:00,553 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 17:01:00,554 - INFO - Function reverse executed successfully.
+2024-09-29 17:02:00,591 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 17:02:00,591 - INFO - Function reverse executed successfully.
+2024-09-29 17:03:00,622 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 17:03:00,622 - INFO - Function reverse executed successfully.
+2024-09-29 17:04:00,659 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 17:04:00,659 - INFO - Function reverse executed successfully.
+2024-09-29 17:05:00,700 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 17:05:00,700 - INFO - Function reverse executed successfully.
+2024-09-29 17:06:00,732 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 17:06:00,732 - INFO - Function reverse executed successfully.
+2024-09-29 17:07:00,768 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 17:07:00,768 - INFO - Function reverse executed successfully.
+2024-09-29 17:08:00,805 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 17:08:00,805 - INFO - Function reverse executed successfully.
+2024-09-29 17:09:00,845 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 17:09:00,845 - INFO - Function reverse executed successfully.
+2024-09-29 17:10:00,878 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 17:10:00,878 - INFO - Function reverse executed successfully.
+2024-09-29 17:11:00,908 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 17:11:00,908 - INFO - Function reverse executed successfully.
+2024-09-29 17:12:00,941 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 17:12:00,941 - INFO - Function reverse executed successfully.
+2024-09-29 17:13:00,970 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 17:13:00,970 - INFO - Function reverse executed successfully.
+2024-09-29 17:14:01,002 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 17:14:01,002 - INFO - Function reverse executed successfully.
+2024-09-29 17:15:01,035 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 17:15:01,035 - INFO - Function reverse executed successfully.
+2024-09-29 17:16:01,072 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 17:16:01,072 - INFO - Function reverse executed successfully.
+2024-09-29 17:17:01,105 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 17:17:01,105 - INFO - Function reverse executed successfully.
+2024-09-29 17:18:01,136 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 17:18:01,136 - INFO - Function reverse executed successfully.
+2024-09-29 17:19:01,168 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 17:19:01,168 - INFO - Function reverse executed successfully.
+2024-09-29 17:20:01,198 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 17:20:01,198 - INFO - Function reverse executed successfully.
+2024-09-29 17:21:01,230 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 17:21:01,230 - INFO - Function reverse executed successfully.
+2024-09-29 17:22:01,265 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 17:22:01,265 - INFO - Function reverse executed successfully.
+2024-09-29 17:23:01,290 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 17:23:01,290 - INFO - Function reverse executed successfully.
+2024-09-29 17:24:01,324 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 17:24:01,324 - INFO - Function reverse executed successfully.
+2024-09-29 17:25:01,355 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 17:25:01,355 - INFO - Function reverse executed successfully.
+2024-09-29 17:26:01,384 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 17:26:01,384 - INFO - Function reverse executed successfully.
+2024-09-29 17:27:01,413 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 17:27:01,413 - INFO - Function reverse executed successfully.
+2024-09-29 17:28:01,442 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 17:28:01,442 - INFO - Function reverse executed successfully.
+2024-09-29 17:29:01,474 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 17:29:01,474 - INFO - Function reverse executed successfully.
+2024-09-29 17:30:01,503 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 17:30:01,503 - INFO - Function reverse executed successfully.
+2024-09-29 17:31:01,534 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 17:31:01,534 - INFO - Function reverse executed successfully.
+2024-09-29 17:32:01,561 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 17:32:01,561 - INFO - Function reverse executed successfully.
+2024-09-29 17:33:01,594 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 17:33:01,594 - INFO - Function reverse executed successfully.
+2024-09-29 17:34:01,627 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 17:34:01,627 - INFO - Function reverse executed successfully.
+2024-09-29 17:35:01,657 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 17:35:01,657 - INFO - Function reverse executed successfully.
+2024-09-29 17:36:01,686 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 17:36:01,686 - INFO - Function reverse executed successfully.
+2024-09-29 17:37:01,717 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 17:37:01,717 - INFO - Function reverse executed successfully.
+2024-09-29 17:38:01,753 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 17:38:01,753 - INFO - Function reverse executed successfully.
+2024-09-29 17:39:01,785 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 17:39:01,785 - INFO - Function reverse executed successfully.
+2024-09-29 17:40:01,812 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 17:40:01,812 - INFO - Function reverse executed successfully.
+2024-09-29 17:41:01,842 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 17:41:01,842 - INFO - Function reverse executed successfully.
+2024-09-29 17:42:01,875 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 17:42:01,875 - INFO - Function reverse executed successfully.
+2024-09-29 17:43:01,901 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 17:43:01,901 - INFO - Function reverse executed successfully.
+2024-09-29 17:44:01,931 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 17:44:01,931 - INFO - Function reverse executed successfully.
+2024-09-29 17:45:01,961 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 17:45:01,961 - INFO - Function reverse executed successfully.
+2024-09-29 17:46:01,987 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 17:46:01,987 - INFO - Function reverse executed successfully.
+2024-09-29 17:47:02,021 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 17:47:02,021 - INFO - Function reverse executed successfully.
+2024-09-29 17:48:02,052 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 17:48:02,052 - INFO - Function reverse executed successfully.
+2024-09-29 17:49:02,080 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 17:49:02,080 - INFO - Function reverse executed successfully.
+2024-09-29 17:50:02,106 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 17:50:02,106 - INFO - Function reverse executed successfully.
+2024-09-29 17:51:02,135 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 17:51:02,135 - INFO - Function reverse executed successfully.
+2024-09-29 17:52:02,164 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 17:52:02,164 - INFO - Function reverse executed successfully.
+2024-09-29 17:53:02,196 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 17:53:02,196 - INFO - Function reverse executed successfully.
+2024-09-29 17:54:02,225 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 17:54:02,225 - INFO - Function reverse executed successfully.
+2024-09-29 17:55:02,259 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 17:55:02,259 - INFO - Function reverse executed successfully.
+2024-09-29 17:56:02,290 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 17:56:02,290 - INFO - Function reverse executed successfully.
+2024-09-29 17:57:02,321 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 17:57:02,321 - INFO - Function reverse executed successfully.
+2024-09-29 17:58:02,354 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 17:58:02,354 - INFO - Function reverse executed successfully.
+2024-09-29 17:59:02,383 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 17:59:02,383 - INFO - Function reverse executed successfully.
+2024-09-29 18:00:02,413 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 18:00:02,413 - INFO - Function reverse executed successfully.
+2024-09-29 18:01:02,443 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 18:01:02,443 - INFO - Function reverse executed successfully.
+2024-09-29 18:02:02,471 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 18:02:02,471 - INFO - Function reverse executed successfully.
+2024-09-29 18:03:02,501 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 18:03:02,501 - INFO - Function reverse executed successfully.
+2024-09-29 18:04:02,533 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 18:04:02,533 - INFO - Function reverse executed successfully.
+2024-09-29 18:05:02,562 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 18:05:02,562 - INFO - Function reverse executed successfully.
+2024-09-29 18:06:02,590 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 18:06:02,590 - INFO - Function reverse executed successfully.
+2024-09-29 18:07:02,621 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 18:07:02,621 - INFO - Function reverse executed successfully.
+2024-09-29 18:08:02,652 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 18:08:02,652 - INFO - Function reverse executed successfully.
+2024-09-29 18:09:02,679 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 18:09:02,679 - INFO - Function reverse executed successfully.
+2024-09-29 18:10:02,722 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 18:10:02,722 - INFO - Function reverse executed successfully.
+2024-09-29 18:11:02,751 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 18:11:02,751 - INFO - Function reverse executed successfully.
+2024-09-29 18:12:02,789 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 18:12:02,789 - INFO - Function reverse executed successfully.
+2024-09-29 18:13:02,823 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 18:13:02,823 - INFO - Function reverse executed successfully.
+2024-09-29 18:14:02,860 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 18:14:02,860 - INFO - Function reverse executed successfully.
+2024-09-29 18:15:02,892 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 18:15:02,892 - INFO - Function reverse executed successfully.
+2024-09-29 18:16:02,929 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 18:16:02,929 - INFO - Function reverse executed successfully.
+2024-09-29 18:17:02,967 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 18:17:02,967 - INFO - Function reverse executed successfully.
+2024-09-29 18:18:02,999 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 18:18:02,999 - INFO - Function reverse executed successfully.
+2024-09-29 18:19:03,034 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 18:19:03,034 - INFO - Function reverse executed successfully.
+2024-09-29 18:20:03,069 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 18:20:03,069 - INFO - Function reverse executed successfully.
+2024-09-29 18:21:03,101 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 18:21:03,101 - INFO - Function reverse executed successfully.
+2024-09-29 18:37:45,155 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 18:37:45,155 - INFO - Function reverse executed successfully.
+2024-09-29 18:38:45,196 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 18:38:45,196 - INFO - Function reverse executed successfully.
+2024-09-29 18:39:45,231 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 18:39:45,231 - INFO - Function reverse executed successfully.
+2024-09-29 18:40:45,265 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 18:40:45,265 - INFO - Function reverse executed successfully.
+2024-09-29 18:41:45,297 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 18:41:45,297 - INFO - Function reverse executed successfully.
+2024-09-29 18:42:45,330 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 18:42:45,330 - INFO - Function reverse executed successfully.
+2024-09-29 18:43:45,363 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 18:43:45,363 - INFO - Function reverse executed successfully.
+2024-09-29 18:44:45,395 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 18:44:45,395 - INFO - Function reverse executed successfully.
+2024-09-29 18:45:45,426 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 18:45:45,426 - INFO - Function reverse executed successfully.
+2024-09-29 18:46:45,467 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 18:46:45,467 - INFO - Function reverse executed successfully.
+2024-09-29 18:47:45,495 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 18:47:45,495 - INFO - Function reverse executed successfully.
+2024-09-29 18:48:45,528 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 18:48:45,528 - INFO - Function reverse executed successfully.
+2024-09-29 18:49:45,557 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 18:49:45,557 - INFO - Function reverse executed successfully.
+2024-09-29 18:50:45,590 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 18:50:45,590 - INFO - Function reverse executed successfully.
+2024-09-29 18:51:45,622 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 18:51:45,622 - INFO - Function reverse executed successfully.
+2024-09-29 18:52:45,653 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 18:52:45,653 - INFO - Function reverse executed successfully.
+2024-09-29 18:53:45,684 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 18:53:45,684 - INFO - Function reverse executed successfully.
+2024-09-29 18:54:45,714 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 18:54:45,714 - INFO - Function reverse executed successfully.
+2024-09-29 18:55:45,745 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 18:55:45,745 - INFO - Function reverse executed successfully.
+2024-09-29 18:56:45,777 - INFO - Calling function reverse with arguments: ('Hello Redis & Celery',) {}
+2024-09-29 18:56:45,777 - INFO - Function reverse executed successfully.
