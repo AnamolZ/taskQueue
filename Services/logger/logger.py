@@ -1,6 +1,7 @@
+# Services/logger/logger.py
+
 import logging
 
-# Configure logging
 logging.basicConfig(
     filename='service.log',
     level=logging.INFO,
@@ -9,8 +10,7 @@ logging.basicConfig(
 
 def log_decorator(func):
     def wrapper(*args, **kwargs):
-        logging.info(f'Calling function {func.__name__} with arguments: {args} {kwargs}')
-        
+        logging.info(f'Calling function {func.__name__}')
         try:
             result = func(*args, **kwargs)
             logging.info(f'Function {func.__name__} executed successfully.')
@@ -18,5 +18,4 @@ def log_decorator(func):
         except Exception as e:
             logging.error(f'Error in function {func.__name__}: {e}')
             raise
-
     return wrapper

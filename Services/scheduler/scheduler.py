@@ -1,15 +1,15 @@
+# Services/scheduler/scheduler.py
+
 import schedule
 import time
 import threading
-from Services.task.push_notification import push_notification
+from Services.task_executor.execute_task import execute_task
 
 def schedule_task():
-    # Create a new thread to execute the task in the background
-    task_thread = threading.Thread(target=push_notification, args=('Notification',"Hello Redis & Celery"))
+    task_thread = threading.Thread(target=execute_task)
     task_thread.start()
-    print("Task initiated in background.")
+    print("Queued tasked initiated in background.")
 
-# Schedule the push notification function to run every minute
 schedule.every(1).minutes.do(schedule_task)
 
 def run_scheduler():

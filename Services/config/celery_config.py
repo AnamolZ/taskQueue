@@ -1,3 +1,5 @@
+# Services/config/celery_config.py
+
 from celery import Celery
 
 app = Celery('tasks', 
@@ -5,4 +7,4 @@ app = Celery('tasks',
     backend='redis://localhost:6379/0'
 )
 
-app.autodiscover_tasks(['Services.task'])
+app.autodiscover_tasks(['Services.task', 'Services.notification'])
