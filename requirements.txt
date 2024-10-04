@@ -1,0 +1,11 @@
+# pip install -r requirements.txt
+
+fastapi
+celery
+redis
+plyer
+pushbullet.py
+requests
+uvicorn
+python-dotenv
+schedule
